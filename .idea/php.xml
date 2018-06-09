@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/cotista-api/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/composer" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/phpcollection/phpcollection" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/jms/parser-lib" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/jms/serializer" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/jms/serializer-bundle" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/jms/metadata" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="5.5.0" />
+</project>

@@ -1,0 +1,6 @@
+services:
+    usuario.repository:
+        class: Infrastructure\Persistence\Doctrine\UsuarioRepository
+        factory: ['@doctrine.orm.default_entity_manager', getRepository]
+        arguments:
+            - Domain\Model\Usuario

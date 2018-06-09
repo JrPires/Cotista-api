@@ -1,0 +1,9 @@
+<serializer>
+    <class name="Domain\Model\Candidato">
+        <propety name="escolaridade" type="string" groups="default"/>
+        <propety name="renda" type="float" groups="default"/>
+        <propety name="etnia" type="string" groups="default"/>
+        <propety name="raca" type="string" groups="default"/>
+
+    </class>
+</serializer>

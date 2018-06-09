@@ -1,0 +1,4 @@
+services:
+    app.usuario.service:
+        class: AppBundle\Service\UsuarioService
+        arguments: ['@usuario.repository']

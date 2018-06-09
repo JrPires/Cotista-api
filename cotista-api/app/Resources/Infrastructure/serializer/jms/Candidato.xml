@@ -1,0 +1,14 @@
+<serializer>
+    <class name="Domain\Model\Candidato">
+        <propety name="cpf" type="string" groups="default"/>
+        <propety name="cotista" type="boolean" groups="default"/>
+        <propety name="telefone" type="string" groups="default"/>
+        <propety name="escolaridade" type="string" groups="default"/>
+        <propety name="renda" type="float" groups="default"/>
+        <propety name="etnia" type="string" groups="default"/>
+        <propety name="raca" type="string" groups="default"/>
+        <propety name="comprovacaoInstituicao" type="string" groups="default"/>
+        <propety name="declaracaoRenda" type="string" groups="default"/>
+
+    </class>
+</serializer>

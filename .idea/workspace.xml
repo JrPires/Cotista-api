@@ -1,0 +1,745 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30bf775c-f025-4c4a-ac48-a13f2c3d0b82" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/cotista-api/composer.json</pharConfigPath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cotista: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="cotista: schema" type="c314c289:MysqlImplModel$Schema" />
+        <item name="candidato_entity: table" type="98d5ac3d:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="UsuarioController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Controller/UsuarioController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="44" column="54" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
+              <folding>
+                <element signature="e#126#157#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsuarioServiceInterface.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cotista-api/src/Domain/Service/UsuarioServiceInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="17" column="43" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UsuarioService.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Service/UsuarioService.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-199">
+              <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/cotista-api/src/AppBundle/Controller/GrupoDeUsuarioController.php" />
+        <option value="$PROJECT_DIR$/cotista-api/src/AppBundle/Controller/CondicaoCotistaController.php" />
+        <option value="$PROJECT_DIR$/cotista-api/app/config/services.yml" />
+        <option value="$PROJECT_DIR$/cotista-api/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/cotista-api/src/AppBundle/Entity/Candidato.php" />
+        <option value="$PROJECT_DIR$/cotista-api/src/AppBundle/Service/CanditatoController.php" />
+        <option value="$PROJECT_DIR$/cotista-api/var/cache/dev/Container6zpx1kz/getCanditatoControllerService.php" />
+        <option value="$PROJECT_DIR$/cotista-api/src/Domain/Model/Layout.twig" />
+        <option value="$PROJECT_DIR$/cotista-api/src/Domain/Model/index.twig" />
+        <option value="$PROJECT_DIR$/cotista-api/src/Domain/Model/layout.twig" />
+        <option value="$PROJECT_DIR$/cotista-api/src/Domain/Model/Usuario.php" />
+        <option value="$PROJECT_DIR$/cotista-api/src/Domain/Model/GrupoDeUsuario.php" />
+        <option value="$PROJECT_DIR$/cotista-api/src/Domain/Model/CondicaoCotista.php" />
+        <option value="$PROJECT_DIR$/cotista-api/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/cotista-api/src/Domain/Model/Candidato.php" />
+        <option value="$PROJECT_DIR$/cotista-api/src/AppBundle/Entity/CanditadoEntity.php" />
+        <option value="$PROJECT_DIR$/cotista-api/src/AppBundle/Entity/CandidatoEntity.php" />
+        <option value="$PROJECT_DIR$/cotista-api/app/Resources/Infrastructure/doctrine/Candidato.orm.xml" />
+        <option value="$PROJECT_DIR$/cotista-api/app/Resources/Infrastructure/doctrine/Usuario.orm.xml" />
+        <option value="$PROJECT_DIR$/cotista-api/app/Resources/Infrastructure/doctrine/GrupoDeUsuario.orm.xml" />
+        <option value="$PROJECT_DIR$/cotista-api/app/Resources/Infrastructure/doctrine/CondicaoCotista.orm.xml" />
+        <option value="$PROJECT_DIR$/cotista-api/app/Resources/Infrastructure/serializer/jms/Candidato.xml" />
+        <option value="$PROJECT_DIR$/cotista-api/app/Resources/Infrastructure/serializer/jms/Usuario.xml" />
+        <option value="$PROJECT_DIR$/cotista-api/app/Resources/Infrastructure/serializer/jms/GrupoDeUsuario.xml" />
+        <option value="$PROJECT_DIR$/cotista-api/app/Resources/Infrastructure/serializer/jms/CondicaoCotista.xml" />
+        <option value="$PROJECT_DIR$/cotista-api/app/Resources/views/usuario/candidato.html.twig" />
+        <option value="$PROJECT_DIR$/cotista-api/src/AppBundle/Form/CandidatoType.php" />
+        <option value="$PROJECT_DIR$/cotista-api/src/AppBundle/Form/UsuarioType.php" />
+        <option value="$PROJECT_DIR$/cotista-api/src/Domain/Repository/UsuarioRepositoryInterface.php" />
+        <option value="$PROJECT_DIR$/cotista-api/src/Infrastructure/Parsistence/Doctrine/UsuarioRepository.php" />
+        <option value="$PROJECT_DIR$/cotista-api/app/config/serializer.yml" />
+        <option value="$PROJECT_DIR$/cotista-api/app/config/repositories.yml" />
+        <option value="$PROJECT_DIR$/cotista-api/app/Resources/views/candidato/candidato.html.twig" />
+        <option value="$PROJECT_DIR$/cotista-api/app/Resources/views/usuario/create.html.twig" />
+        <option value="$PROJECT_DIR$/cotista-api/app/config/services-infrastructure.yml" />
+        <option value="$PROJECT_DIR$/cotista-api/app/config/services-application.yml" />
+        <option value="$PROJECT_DIR$/cotista-api/src/Domain/Service/UsuarioServiceInterface.php" />
+        <option value="$PROJECT_DIR$/cotista-api/src/AppBundle/Controller/UsuarioController.php" />
+        <option value="$PROJECT_DIR$/cotista-api/src/AppBundle/Controller/CandidatoController.php" />
+        <option value="$PROJECT_DIR$/cotista-api/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/cotista-api/src/Infrastructure/Parsistence/Service/SerializerService.php" />
+        <option value="$PROJECT_DIR$/cotista-api/src/AppBundle/Service/UsuarioService.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/cotista-api/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/composer" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/phpcollection/phpcollection" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/jms/parser-lib" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/jms/serializer" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/jms/serializer-bundle" />
+      <path value="$PROJECT_DIR$/cotista-api/vendor/jms/metadata" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1040" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Infrastructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Infrastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="serializer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AppBundle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AppBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AppBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Form" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="AppBundle" type="462c0819:PsiDirectoryNode" />
+              <item name="Service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Domain" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Domain" type="462c0819:PsiDirectoryNode" />
+              <item name="Repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Domain" type="462c0819:PsiDirectoryNode" />
+              <item name="Service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Infrastructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Infrastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="Parsistence" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Infrastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="Parsistence" type="462c0819:PsiDirectoryNode" />
+              <item name="Doctrine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cotista" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cotista" type="462c0819:PsiDirectoryNode" />
+              <item name="cotista-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Infrastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="Parsistence" type="462c0819:PsiDirectoryNode" />
+              <item name="Service" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="def&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Junior\Desktop\curso symfony\cotista\cotista-api\app\Resources\views\candidato" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30bf775c-f025-4c4a-ac48-a13f2c3d0b82" name="Default" comment="" />
+      <created>1527528529937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527528529937</updated>
+      <workItem from="1527528532003" duration="11010000" />
+      <workItem from="1527627243643" duration="4029000" />
+      <workItem from="1527698132103" duration="8055000" />
+      <workItem from="1528133784068" duration="667000" />
+      <workItem from="1528216834160" duration="14556000" />
+      <workItem from="1528304428372" duration="9669000" />
+      <workItem from="1528326820889" duration="53000" />
+      <workItem from="1528327143818" duration="1413000" />
+      <workItem from="1528388986615" duration="16173000" />
+      <workItem from="1528473446278" duration="7278000" />
+      <workItem from="1528486671283" duration="4112000" />
+      <workItem from="1528495746963" duration="4167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="81182000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1358" y="-8" width="1040" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25408164" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" weight="0.29693878" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24960753" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.55445546" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.3292683" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/Resources/Infrastructure/doctrine/GrupoDeUsuario.orm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/Resources/Infrastructure/doctrine/CondicaoCotista.orm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/Resources/Infrastructure/doctrine/Usuario.orm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/Resources/Infrastructure/doctrine/Candidato.orm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/Domain/Model/GrupoDeUsuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Entity/CondicaoCotistaEntity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2378" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Entity/GrupoDeUsuarioEntity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-287" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/Resources/Infrastructure/serializer/jms">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Repository/CanditadoEntityRepository.php" />
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Repository/CondicaoCotistaRepository.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Repository/GrupoDeUsuarioEntityRepository.php" />
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Repository/GrupoDeUsuarioRepository.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Repository/CondicaoCotistaEntityRepository.php" />
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/Resources/Infrastructure/serializer/jms/Candidato.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/Resources/Infrastructure/serializer/jms/GrupoDeUsuario.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Repository/CandidatoRepository.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/Resources/Infrastructure/serializer/jms/CondicaoCotista.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/AppBundle.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/Resources/views/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-492" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Service/CondicaoCotistaService.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Service/CandidatoService.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/Domain/Model/Usuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/Domain/Model/Candidato.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/Resources/views/candidato/candidato.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/Domain/Repository/UsuarioRepositoryInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Controller/GrupoDeUsuarioController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/Resources/views/usuario/create.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/config/serializer.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="81" selection-start-line="10" selection-start-column="81" selection-end-line="10" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/config/repositories.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d0dd4d4d-842f-4e8d-b334-2deff5ab22bb/schema/cotista/table/usuario_entity">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/Resources/Infrastructure/serializer/jms/Usuario.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Entity/UsuarioEntity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Form/UsuarioType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="11" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Repository/UsuarioEntityRepository.php" />
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Repository/UsuarioRepository.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/Infrastructure/Parsistence/Doctrine/UsuarioRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d0dd4d4d-842f-4e8d-b334-2deff5ab22bb/schema/cotista/table/candidato_entity">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Form/CandidatoType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#118#158#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="67" column="40" selection-start-line="67" selection-start-column="40" selection-end-line="67" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Entity/CandidatoEntity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-340">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/config/services-application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/app/config/services-infrastructure.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Controller/UsuarioController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="44" column="54" selection-start-line="44" selection-start-column="54" selection-end-line="44" selection-end-column="54" />
+          <folding>
+            <element signature="e#126#157#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Controller/CandidatoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="29" column="85" selection-start-line="29" selection-start-column="85" selection-end-line="29" selection-end-column="85" />
+          <folding>
+            <element signature="e#124#181#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/Infrastructure/Parsistence/Service/SerializerService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/AppBundle/Service/UsuarioService.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-199">
+          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cotista-api/src/Domain/Service/UsuarioServiceInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<serializer>
+    <class name="Domain\Model\Candidato">
+
+        <propety name="descicao" type="string" groups="default"/>
+
+
+    </class>
+</serializer>

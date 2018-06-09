@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<doctrine-mapping xmlns="http://doctrine-project.org/schemas/orm/doctrine-mapping">
+    <entity name="Domain\Model\GrupoDeUsuario"
+            table="GrupoDeUsuario">
+        <id name="idGrupoDeUsuario" type="integer" column="idGrupoDeUsuario">
+            <generator strategy="AUTO"/>
+        </id>
+
+        <field name="descricao" type="string" column="descricao"/>
+
+
+        <many-to-one target-entity="Domain\Model\Usuario" field="Usuario">
+            <join-column name="Usuario" referenced-column-name="idUsuario"> </join-column>
+        </many-to-one>
+
+    </entity>
+
+</doctrine-mapping>

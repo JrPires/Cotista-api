@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<doctrine-mapping xmlns="http://doctrine-project.org/schemas/orm/doctrine-mapping">
+    <entity name="Domain\Model\Candidato"
+            table="candidato">
+        <id name="idCandidato" type="integer" column="idCandidato">
+            <generator strategy="AUTO"/>
+        </id>
+
+        <field name="cpf" type="string" column="cpf"/>
+        <field name="cotista" type="boolean" column="cotista"/>
+        <field name="telefone" type="string" column="telefone"/>
+        <field name="escolaridade" type="string" column="escolaridade"/>
+        <field name="renda" type="float" column="renda"/>
+        <field name="etnia" type="string" column="etnia"/>
+        <field name="raca" type="string" column="raca"/>
+        <field name="comprovanteInstituicao" type="string" column="comprovanteInstituicao"/>
+        <field name="declaracaoRenda" type="string" column="declaracaoRenda"/>
+
+
+    </entity>
+
+</doctrine-mapping>

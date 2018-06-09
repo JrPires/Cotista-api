@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<doctrine-mapping xmlns="http://doctrine-project.org/schemas/orm/doctrine-mapping">
+    <entity name="Domain\Model\CondicaoCotista"
+            table="CondicaoCotista">
+        <id name="idCondicaoCotista" type="integer" column="idCondicaoCotista">
+            <generator strategy="AUTO"/>
+        </id>
+
+        <field name="escolaridade" type="string" column="escolaridade"/>
+        <field name="renda" type="integer" column="renda"/>
+        <field name="etnia" type="string" column="etnia"/>
+        <field name="raca" type="string" column="raca"/>
+
+    </entity>
+
+</doctrine-mapping>
